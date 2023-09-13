@@ -1,0 +1,21 @@
+#nav {
+    background-color: #DEC2BA;
+    height: 150px;
+    margin-bottom: 100px;
+}
+
+#content{
+    /* border-color: black;
+    border-style: solid; */
+    height: 200px;
+
+}
+
+#goals {
+    height: 500px;
+}
+
+#why {
+    margin-top: 100px;
+}
+
